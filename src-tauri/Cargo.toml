@@ -3,7 +3,7 @@ name = "no-more-launchers"
 version = "0.1.0"
 description = "Import games from multiple launchers into Steam"
 authors = ["you"]
-license = ""
+license = "MIT"
 repository = ""
 edition = "2021"
 
